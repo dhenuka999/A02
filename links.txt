@@ -1,0 +1,73 @@
+
+1)PCA -   
+   	https://www.edureka.co/blog/principal-component-analysis/
+	https://www.youtube.com/watch?v=g-Hb26agBFg 
+    
+     algorithm steps:-----
+	https://iq.opengenus.org/algorithm-principal-component-analysis-pca/
+
+2)Oversampling PCA(osPCA)-
+ 
+  from  2013 IEEE paper
+		
+
+3)Covariance matrix ,eigen values and vectors calculations--
+
+	https://www.youtube.com/watch?v=0GzMcUy7ZI0
+
+4)Datasets-
+
+  supervised:------
+	1>flight
+	https://www.kaggle.com/usdot/flight-delays#airports.csv
+	2>Wine
+	https://www.kaggle.com/zynicide/wine-reviews#winemag-data-130k-v2.csv
+	3>
+
+
+  unsupervised:-----
+	1>aloi-unsupervised-ad
+	2>annthyroid-unsupervised-ad
+	3>cars
+	4>creditcard
+	https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OPQMVF
+	5>KDD dataset
+	https://github.com/defcom17/NSL_KDD/blob/master/KDDTest%2B.csv
+
+5)IEEE papers - Research gate
+
+	www.reasearchgate.net
+
+6)Requirements-
+
+	JDK 1.6 , Net beans
+
+7) sequence diagram-
+
+    	https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/
+
+8)code - (PCA using java)
+	https://github.com/kranjan94/Principal-Component-Analysis/blob/master/Data.java
+	
+	https://github.com/haifengl/smile/blob/master/core/src/main/java/smile/projection/PCA.java
+
+	osPCA
+
+	https://github.com/dsmi-lab-ntust/AnomalyDetectionToolbox/tree/master/Algorithms/PCA_based/osPCA
+
+
+
+detection
+https://github.com/shreyasbhatia09/AnomalyDetection/blob/master/MainActivity.java
+detection
+https://github.com/chen0040/java-local-outlier-factor/blob/master/src/main/java/com/github/chen0040/lof/LOF.java
+PCA
+https://github.com/kranjan94/Principal-Component-Analysis/blob/master/Data.java
+Data Extraction
+https://github.com/malipramod/datapreprocessingsystem/blob/master/src/DataCleaningClass.java
+KDD datasets
+https://github.com/defcom17/NSL_KDD/blob/master/KDDTest%2B.csv
+
+Design in NetBeans
+
+https://netbeans.org/kb/docs/java/quickstart-gui.html
